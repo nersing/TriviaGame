@@ -1,0 +1,104 @@
+body{
+	background-image: url("../images/wallpaper.jpg");
+	min-height:100%;
+	overflow-x:hidden;
+	background-position: center top;
+	background-attachment: fixed;
+	background-repeat:inital
+	padding:0 auto;
+	margin-right:0px;
+	margin-left:50px;
+	/*margin:0 auto;
+	width:100%;*/
+}
+
+
+
+.container{
+	text-align:center;
+	background-color: grey ;
+	color:black;
+	margin-top:40px;
+	
+
+
+}
+
+#title{
+	font-size:80px;
+	font-family: 'Happy Monkey', cursive;
+}
+
+#timer{
+	font-size:25px;
+
+}
+
+#question1, 
+#question2,
+#question3,
+#question4,
+#question5,
+#question6{
+	margin-top:15px;
+	font-size:20px;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+form{
+	font-family: 'Noto Sans', sans-serif;
+	font-size:18px;
+	padding-left:40px;
+	text-align:center;
+
+}
+
+
+#scorePage{
+	font-size:40px;
+	font-family: 'Happy Monkey', cursive;
+}
+
+
+#startbutton{
+	margin:20px;
+	font-size: 30px;
+	padding:30px;
+}
+
+#submit:hover{
+	background-color:#A54657;
+	color:white;
+	margin:;
+}
+
+#start:hover{
+	background-color:#A54657;
+	color:white;
+}
+
+#restart:hover{
+	background-color:#A54657;
+	color:white;
+}
+
+#submit{
+	margin:20px;
+	font-size:18px;
+	/*/*padding:10px;*/
+	font-family: 'Happy Monkey', cursive;
+}
+
+#start{
+	margin:20px;
+	font-size:18px;
+	padding:10px;
+	font-family: 'Happy Monkey', cursive;
+}
+
+#restart{
+	margin:20px;
+	font-size:18px;
+	padding:10px;
+	font-family: 'Happy Monkey', cursive;
+}

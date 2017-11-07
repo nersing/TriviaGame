@@ -12,3 +12,7 @@ This game uses JavaScript for the logic and jQuery to manipulate the HTML.
 
 
 <img width="511" alt="screen shot 2017-11-06 at 6 37 50 pm" src="https://user-images.githubusercontent.com/26397187/32471210-bcd99060-c321-11e7-899d-047986521b41.png">
+
+
+
+<img width="516" alt="screen shot 2017-11-06 at 6 38 05 pm" src="https://user-images.githubusercontent.com/26397187/32471225-cf13c872-c321-11e7-85de-162ec57187e8.png">
